@@ -1,0 +1,4 @@
+ade4TkGUI               Tcl/Tk GUI for the ade4 package
+choosearea              Internal functions for the ade4TkGUI package.
+explore                 Factor map dynamic exploration function
+ordiClust               Ordination and Cluster analysis
